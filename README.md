@@ -5,7 +5,6 @@
 
 Skills: HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning web development and designing 
 
 
