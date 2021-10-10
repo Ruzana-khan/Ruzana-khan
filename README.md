@@ -16,11 +16,9 @@ Skills: HTML / CSS
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruzana-khan&show_icons=true&count_private=true)  
 
 
 
-![Profile views](https://gpvc.arturio.dev/Ruzana-khan)  
 
 
 
