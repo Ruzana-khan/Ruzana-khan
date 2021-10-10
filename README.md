@@ -1,4 +1,4 @@
-### Hi there 👋, My name is Ruzana khan
+### Hi all of you👋, My name is Ruzana khan
 #### I am a student
 ![I am a student](https://scontent.fdac13-1.fna.fbcdn.net/v/t39.30808-6/245070154_916177292630608_6672441124111288061_n.jpg?_nc_cat=108&ccb=1-5&_nc_sid=ab6a21&_nc_ohc=YMCA3fERyggAX9koQD-&_nc_ht=scontent.fdac13-1.fna&oh=203705a4d9e4f2d9b821e3cda04c1ed0&oe=61673DE7)
 
